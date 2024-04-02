@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707722927533",
+    "project_id": "abdayex2",
+    "storage_bucket": "abdayex2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707722927533:android:d3556b4d8a34766a689524",
+        "android_client_info": {
+          "package_name": "com.example.ipe_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjRXaHzfEgaiqBLcUmidXd49IoqVatjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
