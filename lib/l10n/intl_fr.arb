@@ -1,0 +1,102 @@
+{
+ "appName":"ABDAYEX",
+    
+"_home": "=============================================================================================================================================================================",  
+    
+"home": "Accueil",
+    "Pr_title": "Bienvenue sur la plateforme  ABDAYEX",
+    "Pr_line_1": "Bienvenue dans le monde fascinant du savoir ! Nous sommes là pour vous offrir une plateforme éducative de premier plan qui allie plaisir et apprentissage. Les enseignants peuvent améliorer leurs méthodes d'enseignement en partageant leurs expériences et leur créativité. Pendant ce temps, les étudiants peuvent profiter de leçons captivantes et de jeux éducatifs passionnants, les aidant à acquérir des connaissances à l'intérieur et à l'extérieur des murs de l'école.",
+    "Pr_line_2": "Nous ouvrons les portes du savoir de manière agréable et engageante, offrant des expériences d'apprentissage uniques qui favorisent la compréhension et stimulent l'exploration. Que vous soyez un étudiant en quête de motivation supplémentaire ou un enseignant cherchant à améliorer vos compétences, nous fournissons des outils modernes et efficaces pour maximiser le processus d'apprentissage.",
+    "Pr_line_3": "Rejoignez-nous dans un voyage de connaissance et de créativité, où l'éducation rencontre le divertissement et donne lieu à des expériences d'apprentissage inoubliables. Avec notre plateforme, il n'y a pas de limites au savoir et au plaisir.",
+    
+    "Solution_title": "Nos Services",
+    "Solution_Prestation": "Nos services visent à rendre le parcours d'apprentissage agréable et efficace grâce à une gamme variée d'offres.",
+    "Solution_item_1": "Leçons et Exercices Distinctifs",
+    "Solution_line_1": "Nous proposons des leçons exceptionnelles et des exercices préparés par des enseignants expérimentés pour assurer une compréhension complète et une absorption profonde des matériels éducatifs.",
+    "Solution_item_2": "Contenu Éducatif Interactif",
+    "Solution_line_2": "Nous fournissons du contenu éducatif interactif qui favorise les expériences d'apprentissage et encourage la participation active des étudiants.",
+    "Solution_item_3": "Expérience Éducative Inspirante",
+    "Solution_line_3": "Nous nous efforçons de fournir une expérience éducative inspirante et motivante, où les étudiants ressentent enthousiasme et curiosité pour poursuivre leur parcours dans le monde du savoir.",
+    "Solution_item_4": "Contenu Éducatif Périodique",
+    "Solution_line_4": "Nous proposons un contenu éducatif diversifié couvrant les programmes, aidant les étudiants à améliorer leurs compétences et connaissances dans divers domaines.",
+
+    "Services_title": "Nos Solutions",
+
+    "Services_Prestation": "Notre plateforme se distingue par la fourniture de solutions éducatives et de formation avancées alliant innovation technologique et créativité moderne.",
+
+    "Services_line_1": "Nous proposons une plateforme éducative complète couvrant toutes les matières et les étapes académiques, permettant aux étudiants d'accéder à un contenu éducatif exceptionnel à tout moment et de n'importe où.",
+
+    "Services_line_2": "Nous utilisons des techniques d'apprentissage automatique et d'intelligence artificielle pour offrir une expérience d'apprentissage personnalisée et améliorée, aidant les étudiants à atteindre leur plein potentiel.",
+
+    "Services_line_3": "Nous proposons des solutions de formation avancées visant à développer les compétences des étudiants et à les inciter à acquérir une connaissance approfondie dans divers domaines.",
+
+    "Services_line_4": "Pour encourager l'interaction et la participation, nous mettons à disposition des outils interactifs et stimulants qui renforcent la communication entre les enseignants et les étudiants, contribuant ainsi à la création d'un environnement d'apprentissage efficace.",
+
+    "Services_item_1": "Plateforme d'Apprentissage Intégrée",
+    "Services_item_2": "Technologie d'Apprentissage Intelligent",
+    "Services_item_3": "Solutions de Formation Avancées",
+    "Services_item_4": "Interaction et Participation",
+
+    
+
+"_student_space": "=======================================================================================================",
+
+"student_space": "Espace Étudiant",
+
+    "Class": "Classe",
+    "AllGrades": "Toutes les classes",
+    "firstGegree": "Première classe",
+    "SecondGegree": "Deuxième classe",
+    "ThirdGegree": "Troisième classe",
+    "EducationalLevel": "Niveau éducatif",
+    "All years": "Toutes les années",
+    "firstYearPrimary": "Première année primaire",
+    "secondYearPrimary": "Deuxième année primaire",
+    "thirdYearPrimary": "Troisième année primaire",
+    "fourthYearPrimary": "Quatrième année primaire",
+    "fifthYearPrimary": "Cinquième année primaire",
+    "sixthYearPrimary": "Sixième année primaire",
+    "content": "Contenu",
+    "Searchthedatabase": "Rechercher dans la base de données",
+
+"_teacher_space": "=====================================================================================================",
+    
+"teacher_space": "Espace Enseignant",
+"login": "Connexion",
+  "Email": "E-mail",
+  "password": "Mot de passe",
+  "forgot_password": "Mot de passe oublié",
+  "DHA": "Vous n'avez pas de compte ?",
+  "registration": "Inscription",
+  "Google": "Google",
+  "signUp": "Inscription",
+  "createAccount": "Créer votre compte",
+  "username": "Nom d'utilisateur",
+  "confirmPassword": "Confirmer le mot de passe",
+  "alreadyHaveAccount": "Déjà un compte ?",
+
+"Footer":"===============================================================================================================",
+    "contactInformation": "Coordonnées",
+    "address": "B.P. 743 - 2078 La Marsa, Tunis",
+    "phone": "+216 99 916 110",
+    "email": "taha.moussa@ept.ucar.tn",
+    "usefulLinks": "Liens Utiles",
+    "humanitiesInstitute": "Institut des Sciences Humaines à Gafsa",
+    "higherEducationMinistry": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique",
+    "educationMinistry": "Ministère de l'Éducation",
+    "developedBy": "Développé par",
+    "engineeringStudents": "Moussa Taha",
+    "pages": "Nos Pages",
+    "links": "Nos Liens",
+"errormessages":"====================================================================================",
+  "emailError": "Veuillez saisir une adresse e-mail valide",
+  "emptyPasswordError": "Le mot de passe ne peut pas être vide",
+  "shortPasswordError": "Le mot de passe doit comporter au moins 8 caractères",
+  "uppercaseLetterError": "Le mot de passe doit contenir au moins une lettre majuscule",
+  "numberInPasswordError": "Le mot de passe doit contenir au moins un chiffre",
+  "passwordsNotMatchError": "Les mots de passe ne correspondent pas",
+  "nameLengthError": "Le nom doit comporter au moins 2 caractères",
+  "pleaseWait": "Veuillez patienter",
+  "errorMessageSignIn":  "L'adresse e-mail ou le mot de passe est incorrect, veuillez vérifier",
+  "errorMessageSignUp": "L'adresse e-mail est déjà utilisée par un autre compte"
+    }
