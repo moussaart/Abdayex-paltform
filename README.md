@@ -42,9 +42,13 @@ The design of the ABDAYEX educational platform was created using Figma. You can 
 
 ## Installation
 
-To install the project locally, clone the GitHub repository into your local directory using the following command:
+To install the project locally, create a new Flutter project named 'ipe_application' using the following command: 
 ```
-git clone https://github.com/moussaart/Abdayex
+flutter create ipe_application
+```
+Secondly, clone the GitHub repository into your local directory using the following command:
+```
+git clone https://github.com/moussaart/Abdayex-paltform
 ```
 Then, install the project dependencies using the following command:
 ```
